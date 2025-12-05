@@ -2,4 +2,4 @@
 
 Instructions de départ : 
 
-- Rendez-vous au commit situé 2 commits après celui-ci
+- Oups, wrong commit destination, nothing to see here
